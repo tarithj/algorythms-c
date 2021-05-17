@@ -1,0 +1,1 @@
+This is a simpe algorythm that I use in my robotic projects to identify curves in a array of sensor values.

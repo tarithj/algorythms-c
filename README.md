@@ -1,0 +1,1 @@
+** HELLO 👋 ** this repo contains simple algorthms that I wrote for projects/competitions.
